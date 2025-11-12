@@ -53,6 +53,6 @@ This project demonstrates how to build a **scalable, maintainable cloud data pip
 - Produce analytics and visualization that highlight domain insights (sports data in this case)  
 
 ## 👤 Author  
-@YourUsername (or Baby)  
+@anikettrivedii
 Freshers Data Analyst / Data Engineer – Portfolio Project  
 
